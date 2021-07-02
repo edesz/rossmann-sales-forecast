@@ -1,7 +1,7 @@
 jupyter==1.0.0
 nb_black==1.0.7
 numpy==1.21.0
-pandas==1.2.5
+pandas==1.3.0
 pyarrow==4.0.1
 fastparquet==0.5.0
 isoweek==1.3.3
